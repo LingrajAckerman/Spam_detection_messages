@@ -16,9 +16,3 @@
 2. Add credentials.json file inside the directory
 3. Run "youtube_comments.py" to create the token.
 4. That's it! Now you can access the YouTube comments from the app.
-
-## Video tutorial
------------------
-### We have created video tutorial to help you out understand the overall flow of the project
-1. Part-1 of the tutorial is present [here](https://drive.google.com/file/d/1l04yRyLA4woOLRANHK3hPmZOELgLjgCZ/view?usp=sharing)
-2. Part-2 of the tutorial is present [here](https://drive.google.com/file/d/1egitQWJ-8cD2dd9BYbfXCH9YYPNaz_ue/view?usp=sharing)
